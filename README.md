@@ -1,3 +1,3 @@
 # hello-world
-Just a starting repository
-  -Then making a small change
+Just a starting repository. <cr>
+  Then making a small change
