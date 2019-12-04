@@ -1,3 +1,5 @@
 # hello-world
-Just a starting repository. <cr>
-  Then making a small change
+
+Hi All!
+
+My name is Drew Balliet and I am from Loveland.CO. I am just creating some change to commit to my Repository for fun!
